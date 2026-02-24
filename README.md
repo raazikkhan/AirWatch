@@ -3,8 +3,7 @@
 **AirWatch** is a fully responsive, offline-capable Progressive Web App (PWA) built with **Next.js 15**, designed to monitor and visualize air quality data with real-time updates, interactive charts, and a clean UI. Integrated with **Firebase** for notifications and **AI tools** for smart insights, AirWatch provides a seamless and intelligent user experience.
 
 ### 🔗 Live Demo
-https://airwatch-pwa-app.vercel.app
-👉 [https://airwatch-pwa-app.vercel.app/](/)
+
 
 ---
 
